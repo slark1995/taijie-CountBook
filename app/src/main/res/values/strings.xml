@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">taijie-CountBook</string>
+    <string name="button_addNew">addNew</string>
+    <string name="edit_name">Enter the name</string>
+    <string name="edit_number">Enter the number</string>
+    <string name="edit_comment">Enter comment</string>
+    <string name="button_confirm">confirm</string>
+</resources>

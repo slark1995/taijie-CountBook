@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/taijieyang/Desktop/lab3/taijie-CountBook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/taijieyang/Desktop/lab3/taijie-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d3714d41611bc8e142cd142bd14101436791773a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taijieyang/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/Users/taijieyang/Desktop/lab3/taijie-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.2_d5613cac3250fc6ed341417ea60630e187deae5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/taijieyang/Desktop/lab3/taijie-CountBook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b606c14cf8e4bdeba657ae212692f63d136dcc1f">
+        <dex dex="/Users/taijieyang/Desktop/lab3/taijie-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eb7a813a084a3879d4bb27f0cd60c2d52024b8bc/classes.dex" />
+    </item>
+
+</items>
